@@ -5,7 +5,7 @@ My name is Arshvir Chaudhary. I like working on cool ideas and findings solution
 ~ Studying **Computer Science** at the **University of Waterloo** 📚 <br />
 ~ Previously worked at **Cardea Health Inc**, **Roadpost Inc**, **Surf** 🏛️ <br />
 ~ Learning about **Neural Networks** 🌱 <br />
-~ Seeking **Full-time** internships for **Summer 2024** and **Fall 2024** 💼  <br />
+~ Seeking **Full-time** internships for **Summer 2024** and **Fall 2024** 💼 and **Winter 2025** <br />
 
 <!--
 #### Tech Stack:
