@@ -1,50 +1,11 @@
-# Welcome! 👋
-My name is Arshvir Chaudhary. I like working on cool ideas and findings solutions to complex problems. As a result, I became a software developer so that I can work on or with such  technologies and build out something even cooler.
-<br />
+👋 Hi there! My name is Arshvir Chaudhary and I am a software engineer from Toronto. 
 
-~ Studying **Computer Science** at the **University of Waterloo** 📚 <br />
-~ Previously worked at **Cardea Health Inc**, **Roadpost Inc**, **Surf** 🏛️ <br />
-~ Learning about **Neural Networks** 🌱 <br />
-~ Seeking **Full-time** internships for **Summer 2024** and **Fall 2024** 💼 and **Winter 2025** <br />
+🎓 At the moment, I am pursuing a Bachelors in Computer Science at the University of Waterloo with a specialization in Artificial Intelligence. Through the co-op program, I have had the wonderful opportunity to work and learn at several different companies:
+- Cardea Health Inc as a Software and Data Engineer where I worked on automating false positive checks and conduct data extractions and verification for clients .
+- Roadpost Inc as a AWS Software Developer where I leveraged several AWS services to build an event-driven Mailchimp integration.
+- Surf as a Product Development Intern where I worked on refactoring and automating scripts to streamline development workflow.
+- WE Accelerate Program as a SEO consultant where I worked to redesign a website and optimize it for SEO.
 
-<!--
-#### Tech Stack:
+🏡 For the summer term, I will be returning to Cardea Health Inc for my fifth Co-op term. If you're interested in working with me, please let me know since I am looking for an opportunity for my 6th co-op term which can be either in the Fall or Winter.  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
--->
-
-<!--
-[![Arshvir's Github Stats](https://github-readme-stats.vercel.app/api?username=arshvirc&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-#### Languages:
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<br />
-
-#### Frameworks:
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<br />
-
-#### Tools:
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg"/>
-<img align="left" alt="" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg"/>
-<br />
--->
+⛳ In my free time, you can probably catch me running and training for a marathon, playing some hockey, reading a book or walking my dog.
